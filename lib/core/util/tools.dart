@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:keyboard_actions/keyboard_actions.dart';
-import 'package:keyboard_actions/keyboard_actions_config.dart';
 
 import '../constants/colors/app_colors.dart';
 

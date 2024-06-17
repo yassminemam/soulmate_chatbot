@@ -12,15 +12,15 @@ A new Flutter project enables the users to choose their chat-bot character and s
 
 
 18/06/2024
-## Work done
+## Work Done
 
 1- User onboarding screens
 
-## TODO
+## Work ToDo
 
 1- Completing the actual chat feature.
 
-## User Flutter Pub Packages
+## Used Flutter Pub Packages
 
 animated_text_kit: ^4.2.2
 For animating text in user onboarding screens.
