@@ -1,4 +1,4 @@
-name: soulmate_chatbot
+name: com.mysoulmate.chatbotai
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -49,6 +49,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  rename: ^3.0.2
   flutter_launcher_icons: "^0.13.1"
 
 
